@@ -2,8 +2,6 @@
 <h3 align="center">A passionate developer from Poland</h3>
 <img align="right" alt="Coding" width="240" src="https://i.imgur.com/vLJuF7X.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorbialek&label=Profile%20views&color=29b40e&style=flat" alt="igorbialek" /> </p>
-
 - 🔭 I’m currently working on **Peptide Visualization**
 
 - 🌱 I’m currently learning **React Native**
