@@ -25,4 +25,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=igorbialek&show_icons=true&theme=dark&locale=en" alt="igorbialek" /></p>
 
+![Metrics](/github-metrics.svg)
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorbialek&theme=dark" alt="igorbialek" /></p>
