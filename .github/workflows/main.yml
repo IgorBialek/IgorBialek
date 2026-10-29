@@ -28,7 +28,7 @@ jobs:
           user: IgorBialek
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Podgorica
+          config_timezone: Europe/Warsaw
 #           plugin_achievements: yes
 #           plugin_achievements_display: compact
 #           plugin_achievements_secrets: yes
